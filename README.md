@@ -5,6 +5,10 @@ Bu çalışma, yapay zeka algoritmaları kullanılarak marul bitkilerinin tespit
 Gönderilen proje dosyasında gerekli veri seti hazır olarak bukunmaktadır. Bundan dolayı yeni bir veri seti hazırlanmamıştır. Veri seti içerisinde gerekli görseller ve bu görsellere ait etiketler yer almaktadır. Veri setinde toplam 747 adet görsel ve 747 adet etiket dolasyası bulunmaktadır. Bu görsellerden 518(%70) tanesi eğitim, 112(%15) tanesi doğrulama ve kalan 112(%15) tanesi ise test için ayrılmıştır.
 
 ## 2. Modelin Eğitilmesi
+Yapay zeka modelinin eğitimi için YOLO algoritması seçilmiştir. Bu algoritma diğerlerine göre daha yüksek doğruluğa ve daha hızlı tespki süresine sahiptir. Bundan dolayı bu çalışma için en uygum algoritmadır. Eğitim işlemi toplamda 500 iterasyon kullanılarak tamamlanmıştır. Bu eğitim sonucunda aşağıdaki veriler elde edilmiştir.
+![P_curve](https://github.com/pyimagedata/agriverts_study_case/assets/67453649/592dbc0f-e6b0-4ff1-932c-cd9806c88639)   ![R_curve](https://github.com/pyimagedata/agriverts_study_case/assets/67453649/8f217ddf-90aa-46af-b5eb-96f626610c5e)  ![F1_curve](https://github.com/pyimagedata/agriverts_study_case/assets/67453649/f6520247-291b-424a-9eb0-ca85d41a79ad)
+
+
 
 
 
