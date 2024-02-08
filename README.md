@@ -70,3 +70,6 @@ else:
     print(f"Request failed with status code {response.status_code}.")
 
 </code></pre>
+
+
+### Bu dökümanda eğitim ve web uygulamasına ait kodlar paylaşılmamıştır.
