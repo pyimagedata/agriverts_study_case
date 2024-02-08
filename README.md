@@ -6,7 +6,8 @@ Gönderilen proje dosyasında gerekli veri seti hazır olarak bukunmaktadır. Bu
 
 ## 2. Modelin Eğitilmesi
 Yapay zeka modelinin eğitimi için YOLO algoritması seçilmiştir. Bu algoritma diğerlerine göre daha yüksek doğruluğa ve daha hızlı tespki süresine sahiptir. Bundan dolayı bu çalışma için en uygum algoritmadır. Eğitim işlemi toplamda 500 iterasyon kullanılarak tamamlanmıştır. Bu eğitim sonucunda aşağıdaki veriler elde edilmiştir.
-![P_curve](https://github.com/pyimagedata/agriverts_study_case/assets/67453649/592dbc0f-e6b0-4ff1-932c-cd9806c88639)   ![R_curve](https://github.com/pyimagedata/agriverts_study_case/assets/67453649/8f217ddf-90aa-46af-b5eb-96f626610c5e)  ![F1_curve](https://github.com/pyimagedata/agriverts_study_case/assets/67453649/f6520247-291b-424a-9eb0-ca85d41a79ad)
+![Resim 1](https://github.com/pyimagedata/agriverts_study_case/assets/67453649/592dbc0f-e6b0-4ff1-932c-cd9806c88639)](https://github.com/pyimagedata/agriverts_study_case) ![Resim 2](https://github.com/pyimagedata/agriverts_study_case/assets/67453649/8f217ddf-90aa-46af-b5eb-96f626610c5e)](https://github.com/pyimagedata/agriverts_study_case) ![Resim 3](https://github.com/pyimagedata/agriverts_study_case/assets/67453649/f6520247-291b-424a-9eb0-ca85d41a79ad)](https://github.com/pyimagedata/agriverts_study_case)
+
 
 
 
